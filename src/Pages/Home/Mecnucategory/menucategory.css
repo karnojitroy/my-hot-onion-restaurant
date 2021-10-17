@@ -1,0 +1,7 @@
+.MenuCategory{
+    margin: 5px;
+}
+.MenuCategory a{
+    padding: 10px;
+    text-decoration: none;
+}
